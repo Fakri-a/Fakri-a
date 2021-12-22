@@ -1,7 +1,3 @@
-// Convert an amount from USD/Yemen Rial/Saudi Rial to USD/Yemen Rial/Saudi Rial.
-// Built for Wix Velo backend files.
-// Built by Fakri-a
-
 export function currencyConverter(originalCurrency, newCurrency, amount) {
 	let yemenRialPerDollar = 595;
 	let saudiRialPerDollar = 3.75;
